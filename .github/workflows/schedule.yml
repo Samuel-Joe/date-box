@@ -16,5 +16,5 @@ jobs:
         env:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
           RECORDS: "2024-11-01 _ 정보처리기사자격취득 | 2024-12-31_ 최종프로젝트 |  2024-12-31_ 최종면접 | 0 *
